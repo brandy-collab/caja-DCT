@@ -1,0 +1,7 @@
+# Simulador de la caja de doble embrague (DCT) de 6 marchas (app_dct.py)
+# Instalar con:  pip install -r requirements.txt
+# Ejecutar con:  streamlit run app_dct.py
+streamlit>=1.52
+numpy>=2.0
+pandas>=2.2.3
+altair>=5.0
